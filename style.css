@@ -1,0 +1,19 @@
+h1{
+    background-color: pink;
+    color: blue; 
+    text-align: center;
+}
+ 
+h2{
+    background-color: aquamarine;
+    color: burlywood;
+    text-align: center;
+}
+ 
+p{
+    font-family: sans-serif;
+
+}
+ul{
+    line-height: 30px;
+}
